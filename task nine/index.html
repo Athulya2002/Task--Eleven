@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Hover Example</title>
+</head>
+<body>
+    <img id="myImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgLSbmgYxJMTJcUwssl1hmgjJjLsURQsWjg&s" alt="Hover Image">
+
+    <script>
+        // Get the image element
+        const image = document.getElementById('myImage');
+
+        // Function to hide the image on mouseover
+        image.onmouseover = function() {
+            image.style.display = 'none';
+        };
+
+        // Function to show the image again on mouseout
+        image.onmouseout = function() {
+            image.style.display = 'block';
+        };
+    </script>
+</body>
+</html>
