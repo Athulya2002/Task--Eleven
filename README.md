@@ -1,4 +1,4 @@
-# task-nine: Image Hover Effect
+# Task--Eleven: Image Hover Effect
 
 ## Objective
 
@@ -20,7 +20,7 @@ Create an HTML page that includes an image element. Implement an effect where th
    - If curious, also provide a CSS-only solution to achieve the same hover effect.
   
 5. **Upload to GitHub:**
-   - Upload the `index.html` file to the `task-nine` repository in your GitHub repo.
+   - Upload the `index.html` file to the `Task--Eleven` repository in your GitHub repo.
 
 ## JavaScript Implementation
 
